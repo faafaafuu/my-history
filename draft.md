@@ -1,2 +1,3 @@
 - 2017-01-01 : added new note
 - 2017-01-10 : added reminder
+- 2017-01-11 : updated section
