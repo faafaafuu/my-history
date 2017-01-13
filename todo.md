@@ -1,1 +1,2 @@
 - 2017-01-02 : added new note
+- 2017-01-13 : added link
