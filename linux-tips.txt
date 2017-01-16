@@ -1,1 +1,2 @@
 - 2017-01-04 : fixed syntax
+- 2017-01-16 : added reminder
