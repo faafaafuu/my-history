@@ -1,3 +1,4 @@
 - 2017-02-27 : added link
 - 2017-03-14 : added reminder
 - 2017-03-16 : added new note
+- 2017-03-21 : fixed syntax
