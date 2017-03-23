@@ -6,3 +6,4 @@
 - 2017-03-02 : added link
 - 2017-03-10 : added link
 - 2017-03-17 : added reminder
+- 2017-03-23 : small fix
