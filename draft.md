@@ -8,3 +8,4 @@
 - 2017-03-17 : added reminder
 - 2017-03-23 : small fix
 - 2017-03-24 : added link
+- 2017-03-30 : small fix
