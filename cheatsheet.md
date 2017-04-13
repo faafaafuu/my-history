@@ -3,3 +3,4 @@
 - 2017-03-16 : added new note
 - 2017-03-21 : fixed syntax
 - 2017-04-05 : small fix
+- 2017-04-13 : updated section
