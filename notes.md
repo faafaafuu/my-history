@@ -5,3 +5,4 @@
 - 2017-04-14 : fixed syntax
 - 2017-04-17 : added new note
 - 2017-04-26 : small fix
+- 2017-05-12 : added new note
