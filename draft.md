@@ -14,3 +14,4 @@
 - 2017-05-05 : added new note
 - 2017-05-09 : updated section
 - 2017-05-11 : small fix
+- 2017-05-19 : updated section
