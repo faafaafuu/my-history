@@ -6,3 +6,4 @@
 - 2017-04-21 : added link
 - 2017-05-04 : added link
 - 2017-05-10 : added new note
+- 2017-05-22 : fixed syntax
