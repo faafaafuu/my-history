@@ -8,3 +8,4 @@
 - 2017-05-12 : added new note
 - 2017-05-15 : fixed syntax
 - 2017-05-23 : added link
+- 2017-06-13 : added reminder
