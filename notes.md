@@ -9,3 +9,4 @@
 - 2017-05-15 : fixed syntax
 - 2017-05-23 : added link
 - 2017-06-13 : added reminder
+- 2017-06-15 : fixed syntax
