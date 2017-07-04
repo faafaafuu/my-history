@@ -12,3 +12,4 @@
 - 2017-06-22 : small fix
 - 2017-06-23 : small fix
 - 2017-06-26 : fixed syntax
+- 2017-07-04 : added link
