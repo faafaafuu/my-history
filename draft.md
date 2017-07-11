@@ -16,3 +16,4 @@
 - 2017-05-11 : small fix
 - 2017-05-19 : updated section
 - 2017-07-10 : small fix
+- 2017-07-11 : added reminder
