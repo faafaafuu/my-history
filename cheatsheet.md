@@ -6,3 +6,4 @@
 - 2017-04-13 : updated section
 - 2017-04-18 : small fix
 - 2017-06-27 : fixed syntax
+- 2017-07-14 : added reminder
