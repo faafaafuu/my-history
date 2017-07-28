@@ -14,3 +14,4 @@
 - 2017-06-26 : fixed syntax
 - 2017-07-04 : added link
 - 2017-07-07 : added reminder
+- 2017-07-28 : added reminder
