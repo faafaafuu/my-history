@@ -8,3 +8,4 @@
 - 2017-06-27 : fixed syntax
 - 2017-07-14 : added reminder
 - 2017-07-24 : small fix
+- 2017-08-01 : updated section
