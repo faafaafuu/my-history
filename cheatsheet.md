@@ -9,3 +9,4 @@
 - 2017-07-14 : added reminder
 - 2017-07-24 : small fix
 - 2017-08-01 : updated section
+- 2017-08-07 : small fix
