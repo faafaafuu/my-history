@@ -18,3 +18,4 @@
 - 2017-07-10 : small fix
 - 2017-07-11 : added reminder
 - 2017-07-26 : added new note
+- 2017-08-18 : added reminder
