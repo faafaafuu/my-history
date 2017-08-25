@@ -16,3 +16,4 @@
 - 2017-07-07 : added reminder
 - 2017-07-28 : added reminder
 - 2017-07-31 : fixed syntax
+- 2017-08-25 : fixed syntax
