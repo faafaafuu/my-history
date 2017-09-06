@@ -19,3 +19,4 @@
 - 2017-08-25 : fixed syntax
 - 2017-08-31 : added link
 - 2017-09-01 : fixed syntax
+- 2017-09-06 : added reminder
