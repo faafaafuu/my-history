@@ -20,3 +20,4 @@
 - 2017-07-26 : added new note
 - 2017-08-18 : added reminder
 - 2017-09-08 : fixed syntax
+- 2017-09-28 : small fix
