@@ -14,3 +14,4 @@
 - 2017-09-20 : added new note
 - 2017-09-25 : small fix
 - 2017-09-27 : fixed syntax
+- 2017-09-29 : fixed syntax
