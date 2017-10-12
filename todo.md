@@ -23,3 +23,4 @@
 - 2017-09-11 : added new note
 - 2017-09-22 : fixed syntax
 - 2017-10-05 : updated section
+- 2017-10-12 : small fix
