@@ -16,3 +16,4 @@
 - 2017-08-29 : fixed syntax
 - 2017-09-15 : added link
 - 2017-10-06 : updated section
+- 2017-10-16 : small fix
