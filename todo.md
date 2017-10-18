@@ -24,3 +24,4 @@
 - 2017-09-22 : fixed syntax
 - 2017-10-05 : updated section
 - 2017-10-12 : small fix
+- 2017-10-18 : added reminder
