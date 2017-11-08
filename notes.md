@@ -17,3 +17,4 @@
 - 2017-09-15 : added link
 - 2017-10-06 : updated section
 - 2017-10-16 : small fix
+- 2017-11-08 : updated section
