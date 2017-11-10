@@ -22,3 +22,4 @@
 - 2017-09-08 : fixed syntax
 - 2017-09-28 : small fix
 - 2017-10-11 : added link
+- 2017-11-10 : updated section
