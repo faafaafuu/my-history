@@ -28,3 +28,4 @@
 - 2017-10-19 : updated section
 - 2017-10-20 : added link
 - 2017-10-24 : added link
+- 2017-11-27 : added new note
