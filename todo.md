@@ -32,3 +32,4 @@
 - 2017-12-05 : small fix
 - 2017-12-19 : updated section
 - 2017-12-20 : added link
+- 2017-12-29 : added new note
