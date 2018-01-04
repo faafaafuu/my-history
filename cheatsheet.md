@@ -18,3 +18,4 @@
 - 2017-12-21 : added link
 - 2017-12-23 : fixed syntax
 - 2017-12-26 : fixed syntax
+- 2018-01-04 : fixed syntax
