@@ -29,3 +29,4 @@
 - 2017-12-13 : small fix
 - 2017-12-25 : added link
 - 2018-01-01 : fixed syntax
+- 2018-01-18 : updated section
