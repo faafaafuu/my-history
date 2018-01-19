@@ -30,3 +30,4 @@
 - 2017-12-25 : added link
 - 2018-01-01 : fixed syntax
 - 2018-01-18 : updated section
+- 2018-01-19 : updated section
