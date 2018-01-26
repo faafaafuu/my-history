@@ -31,3 +31,4 @@
 - 2018-01-01 : fixed syntax
 - 2018-01-18 : updated section
 - 2018-01-19 : updated section
+- 2018-01-26 : added reminder
