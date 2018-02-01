@@ -21,3 +21,4 @@
 - 2018-01-04 : fixed syntax
 - 2018-01-05 : added link
 - 2018-01-15 : updated section
+- 2018-02-01 : small fix
