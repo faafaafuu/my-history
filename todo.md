@@ -37,3 +37,4 @@
 - 2018-02-07 : added reminder
 - 2018-02-13 : updated section
 - 2018-02-20 : updated section
+- 2018-03-23 : added new note
