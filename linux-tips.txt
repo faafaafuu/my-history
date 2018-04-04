@@ -36,3 +36,4 @@
 - 2018-03-12 : added reminder
 - 2018-03-13 : fixed syntax
 - 2018-03-19 : small fix
+- 2018-04-04 : updated section
