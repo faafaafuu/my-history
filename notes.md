@@ -25,3 +25,4 @@
 - 2018-01-24 : small fix
 - 2018-02-21 : added link
 - 2018-03-20 : added link
+- 2018-04-16 : fixed syntax
