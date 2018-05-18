@@ -39,3 +39,4 @@
 - 2018-04-04 : updated section
 - 2018-05-11 : added link
 - 2018-05-15 : added new note
+- 2018-05-18 : added reminder
