@@ -43,3 +43,4 @@
 - 2018-05-16 : fixed syntax
 - 2018-05-30 : added link
 - 2018-06-04 : updated section
+- 2018-06-05 : small fix
