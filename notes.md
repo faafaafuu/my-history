@@ -30,3 +30,4 @@
 - 2018-05-09 : updated section
 - 2018-06-01 : added link
 - 2018-06-19 : added link
+- 2018-06-20 : small fix
