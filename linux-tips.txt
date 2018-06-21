@@ -42,3 +42,4 @@
 - 2018-05-18 : added reminder
 - 2018-05-29 : fixed syntax
 - 2018-06-11 : added link
+- 2018-06-21 : added new note
