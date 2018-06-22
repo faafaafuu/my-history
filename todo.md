@@ -44,3 +44,4 @@
 - 2018-04-24 : added new note
 - 2018-05-17 : added link
 - 2018-06-08 : added link
+- 2018-06-22 : fixed syntax
