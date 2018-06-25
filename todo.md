@@ -45,3 +45,4 @@
 - 2018-05-17 : added link
 - 2018-06-08 : added link
 - 2018-06-22 : fixed syntax
+- 2018-06-25 : added new note
