@@ -31,3 +31,4 @@
 - 2018-05-07 : added reminder
 - 2018-05-21 : small fix
 - 2018-05-22 : updated section
+- 2018-06-27 : added new note
