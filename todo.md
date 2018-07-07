@@ -47,3 +47,4 @@
 - 2018-06-22 : fixed syntax
 - 2018-06-25 : added new note
 - 2018-07-03 : added new note
+- 2018-07-07 : added reminder
