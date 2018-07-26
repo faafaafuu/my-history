@@ -33,3 +33,4 @@
 - 2018-05-22 : updated section
 - 2018-06-27 : added new note
 - 2018-06-28 : added new note
+- 2018-07-26 : fixed syntax
