@@ -31,3 +31,4 @@
 - 2018-06-01 : added link
 - 2018-06-19 : added link
 - 2018-06-20 : small fix
+- 2018-07-30 : added new note
