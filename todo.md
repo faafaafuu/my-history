@@ -49,3 +49,4 @@
 - 2018-07-03 : added new note
 - 2018-07-07 : added reminder
 - 2018-07-27 : added reminder
+- 2018-08-01 : added link
