@@ -50,3 +50,4 @@
 - 2018-07-05 : small fix
 - 2018-07-06 : added new note
 - 2018-08-03 : added reminder
+- 2018-08-08 : added new note
