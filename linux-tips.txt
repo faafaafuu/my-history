@@ -46,3 +46,4 @@
 - 2018-08-10 : added link
 - 2018-08-13 : added reminder
 - 2018-08-14 : updated section
+- 2018-08-16 : added link
