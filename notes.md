@@ -33,3 +33,4 @@
 - 2018-06-20 : small fix
 - 2018-07-30 : added new note
 - 2018-08-20 : added reminder
+- 2018-09-04 : added new note
