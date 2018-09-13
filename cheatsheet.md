@@ -34,3 +34,4 @@
 - 2018-06-27 : added new note
 - 2018-06-28 : added new note
 - 2018-07-26 : fixed syntax
+- 2018-09-13 : added new note
