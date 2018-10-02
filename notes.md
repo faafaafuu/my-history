@@ -35,3 +35,4 @@
 - 2018-08-20 : added reminder
 - 2018-09-04 : added new note
 - 2018-09-14 : added link
+- 2018-10-02 : fixed syntax
