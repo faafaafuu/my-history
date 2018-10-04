@@ -55,3 +55,4 @@
 - 2018-09-17 : small fix
 - 2018-09-19 : updated section
 - 2018-10-01 : small fix
+- 2018-10-04 : added new note
