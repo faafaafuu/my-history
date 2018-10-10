@@ -48,3 +48,4 @@
 - 2018-08-14 : updated section
 - 2018-08-16 : added link
 - 2018-09-03 : small fix
+- 2018-10-10 : added reminder
