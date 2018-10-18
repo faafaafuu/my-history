@@ -55,3 +55,4 @@
 - 2018-08-23 : added link
 - 2018-09-21 : updated section
 - 2018-09-27 : fixed syntax
+- 2018-10-18 : fixed syntax
