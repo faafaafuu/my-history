@@ -57,3 +57,4 @@
 - 2018-09-27 : fixed syntax
 - 2018-10-18 : fixed syntax
 - 2018-11-02 : fixed syntax
+- 2018-11-06 : added reminder
