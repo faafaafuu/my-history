@@ -39,3 +39,4 @@
 - 2018-10-19 : added reminder
 - 2018-10-25 : updated section
 - 2018-10-30 : updated section
+- 2018-11-15 : small fix
