@@ -38,3 +38,4 @@
 - 2018-10-02 : fixed syntax
 - 2018-10-16 : added reminder
 - 2018-11-01 : added new note
+- 2018-11-21 : added new note
