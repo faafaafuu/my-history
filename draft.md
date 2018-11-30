@@ -58,3 +58,4 @@
 - 2018-10-04 : added new note
 - 2018-10-05 : fixed syntax
 - 2018-11-07 : updated section
+- 2018-11-30 : added new note
