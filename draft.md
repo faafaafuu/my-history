@@ -61,3 +61,4 @@
 - 2018-11-30 : added new note
 - 2018-12-04 : fixed syntax
 - 2018-12-06 : updated section
+- 2018-12-07 : updated section
