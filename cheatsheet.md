@@ -42,3 +42,4 @@
 - 2018-11-15 : small fix
 - 2018-11-26 : added new note
 - 2018-11-27 : small fix
+- 2018-12-21 : updated section
