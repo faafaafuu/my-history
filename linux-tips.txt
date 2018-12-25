@@ -54,3 +54,4 @@
 - 2018-11-14 : added reminder
 - 2018-11-16 : updated section
 - 2018-12-12 : added link
+- 2018-12-25 : added reminder
