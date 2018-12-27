@@ -56,3 +56,4 @@
 - 2018-12-12 : added link
 - 2018-12-25 : added reminder
 - 2018-12-26 : fixed syntax
+- 2018-12-27 : fixed syntax
