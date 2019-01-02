@@ -40,3 +40,4 @@
 - 2018-11-01 : added new note
 - 2018-11-21 : added new note
 - 2018-12-24 : added new note
+- 2019-01-02 : added link
