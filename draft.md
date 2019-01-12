@@ -65,3 +65,4 @@
 - 2019-01-04 : added new note
 - 2019-01-07 : added reminder
 - 2019-01-09 : added reminder
+- 2019-01-12 : added reminder
