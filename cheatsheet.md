@@ -46,3 +46,4 @@
 - 2018-12-31 : added reminder
 - 2019-01-10 : small fix
 - 2019-01-11 : fixed syntax
+- 2019-01-14 : small fix
