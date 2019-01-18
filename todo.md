@@ -60,3 +60,4 @@
 - 2018-11-06 : added reminder
 - 2018-12-13 : added link
 - 2018-12-18 : added new note
+- 2019-01-18 : added link
