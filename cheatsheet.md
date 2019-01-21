@@ -47,3 +47,4 @@
 - 2019-01-10 : small fix
 - 2019-01-11 : fixed syntax
 - 2019-01-14 : small fix
+- 2019-01-21 : added new note
