@@ -71,3 +71,4 @@
 - 2019-02-04 : added reminder
 - 2019-02-28 : updated section
 - 2019-03-05 : small fix
+- 2019-03-06 : fixed syntax
