@@ -53,3 +53,4 @@
 - 2019-02-13 : added link
 - 2019-02-14 : added new note
 - 2019-02-23 : added reminder
+- 2019-03-07 : fixed syntax
