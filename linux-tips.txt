@@ -61,3 +61,4 @@
 - 2019-01-01 : small fix
 - 2019-02-07 : added link
 - 2019-02-08 : added reminder
+- 2019-03-12 : fixed syntax
