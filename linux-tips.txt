@@ -63,3 +63,4 @@
 - 2019-02-08 : added reminder
 - 2019-03-12 : fixed syntax
 - 2019-03-14 : added new note
+- 2019-03-15 : updated section
