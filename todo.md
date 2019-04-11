@@ -66,3 +66,4 @@
 - 2019-02-06 : added new note
 - 2019-02-18 : added link
 - 2019-04-10 : fixed syntax
+- 2019-04-11 : added reminder
