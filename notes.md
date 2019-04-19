@@ -47,3 +47,4 @@
 - 2019-02-26 : small fix
 - 2019-02-27 : fixed syntax
 - 2019-04-17 : updated section
+- 2019-04-19 : fixed syntax
