@@ -59,3 +59,4 @@
 - 2019-04-24 : fixed syntax
 - 2019-04-26 : added new note
 - 2019-04-29 : added reminder
+- 2019-04-30 : fixed syntax
