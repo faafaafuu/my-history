@@ -67,3 +67,4 @@
 - 2019-03-20 : fixed syntax
 - 2019-03-22 : added new note
 - 2019-03-23 : fixed syntax
+- 2019-05-03 : small fix
