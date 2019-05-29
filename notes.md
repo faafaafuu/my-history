@@ -50,3 +50,4 @@
 - 2019-04-19 : fixed syntax
 - 2019-05-01 : fixed syntax
 - 2019-05-10 : small fix
+- 2019-05-29 : added new note
