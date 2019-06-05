@@ -71,3 +71,4 @@
 - 2019-04-23 : added reminder
 - 2019-04-25 : added link
 - 2019-05-07 : added link
+- 2019-06-05 : added new note
