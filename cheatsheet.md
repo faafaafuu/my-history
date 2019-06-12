@@ -64,3 +64,4 @@
 - 2019-05-12 : fixed syntax
 - 2019-05-30 : added link
 - 2019-06-03 : updated section
+- 2019-06-12 : small fix
