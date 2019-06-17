@@ -70,3 +70,4 @@
 - 2019-05-03 : small fix
 - 2019-05-23 : added new note
 - 2019-06-11 : fixed syntax
+- 2019-06-17 : small fix
