@@ -78,3 +78,4 @@
 - 2019-05-14 : added link
 - 2019-05-28 : added new note
 - 2019-05-31 : small fix
+- 2019-06-21 : fixed syntax
