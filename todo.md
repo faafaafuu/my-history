@@ -72,3 +72,4 @@
 - 2019-04-25 : added link
 - 2019-05-07 : added link
 - 2019-06-05 : added new note
+- 2019-06-26 : small fix
