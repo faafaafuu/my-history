@@ -80,3 +80,4 @@
 - 2019-05-31 : small fix
 - 2019-06-21 : fixed syntax
 - 2019-06-24 : added reminder
+- 2019-06-27 : added reminder
