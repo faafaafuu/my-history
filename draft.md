@@ -83,3 +83,4 @@
 - 2019-06-27 : added reminder
 - 2019-07-23 : small fix
 - 2019-07-24 : small fix
+- 2019-07-29 : added new note
