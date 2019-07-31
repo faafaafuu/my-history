@@ -72,3 +72,4 @@
 - 2019-06-11 : fixed syntax
 - 2019-06-17 : small fix
 - 2019-07-26 : added link
+- 2019-07-31 : added new note
