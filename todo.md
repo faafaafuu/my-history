@@ -74,3 +74,4 @@
 - 2019-06-05 : added new note
 - 2019-06-26 : small fix
 - 2019-06-28 : small fix
+- 2019-08-02 : updated section
