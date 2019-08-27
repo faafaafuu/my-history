@@ -86,3 +86,4 @@
 - 2019-07-29 : added new note
 - 2019-08-21 : fixed syntax
 - 2019-08-22 : added new note
+- 2019-08-27 : added link
