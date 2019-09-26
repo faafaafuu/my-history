@@ -88,3 +88,4 @@
 - 2019-08-22 : added new note
 - 2019-08-27 : added link
 - 2019-09-09 : fixed syntax
+- 2019-09-26 : updated section
