@@ -82,3 +82,4 @@
 - 2019-10-02 : updated section
 - 2019-10-09 : fixed syntax
 - 2019-10-16 : added reminder
+- 2019-10-18 : added reminder
