@@ -60,3 +60,4 @@
 - 2019-10-07 : added link
 - 2019-10-08 : small fix
 - 2019-10-10 : added reminder
+- 2019-10-24 : added reminder
