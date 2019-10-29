@@ -89,3 +89,4 @@
 - 2019-08-27 : added link
 - 2019-09-09 : fixed syntax
 - 2019-09-26 : updated section
+- 2019-10-29 : updated section
