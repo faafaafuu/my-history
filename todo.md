@@ -84,3 +84,4 @@
 - 2019-09-30 : added new note
 - 2019-10-14 : added reminder
 - 2019-11-05 : added new note
+- 2019-11-08 : updated section
