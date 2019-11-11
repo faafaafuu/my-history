@@ -85,3 +85,4 @@
 - 2019-10-18 : added reminder
 - 2019-10-21 : small fix
 - 2019-10-28 : small fix
+- 2019-11-11 : small fix
