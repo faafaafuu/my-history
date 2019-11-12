@@ -68,3 +68,4 @@
 - 2019-06-18 : updated section
 - 2019-06-20 : added link
 - 2019-09-06 : updated section
+- 2019-11-12 : added new note
