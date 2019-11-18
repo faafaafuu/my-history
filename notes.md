@@ -63,3 +63,4 @@
 - 2019-10-24 : added reminder
 - 2019-11-07 : added link
 - 2019-11-15 : added reminder
+- 2019-11-18 : updated section
