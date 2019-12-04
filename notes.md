@@ -66,3 +66,4 @@
 - 2019-11-18 : updated section
 - 2019-11-19 : fixed syntax
 - 2019-11-20 : small fix
+- 2019-12-04 : added reminder
