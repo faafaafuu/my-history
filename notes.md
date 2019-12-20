@@ -68,3 +68,4 @@
 - 2019-11-20 : small fix
 - 2019-12-04 : added reminder
 - 2019-12-19 : added new note
+- 2019-12-20 : added link
