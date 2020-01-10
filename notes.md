@@ -70,3 +70,4 @@
 - 2019-12-19 : added new note
 - 2019-12-20 : added link
 - 2019-12-30 : added link
+- 2020-01-10 : added reminder
