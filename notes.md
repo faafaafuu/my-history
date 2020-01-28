@@ -72,3 +72,4 @@
 - 2019-12-30 : added link
 - 2020-01-10 : added reminder
 - 2020-01-21 : added new note
+- 2020-01-28 : added new note
