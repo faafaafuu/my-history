@@ -92,3 +92,4 @@
 - 2019-10-29 : updated section
 - 2019-12-16 : fixed syntax
 - 2020-01-31 : added reminder
+- 2020-02-25 : updated section
