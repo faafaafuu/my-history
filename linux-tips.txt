@@ -95,3 +95,4 @@
 - 2020-01-01 : small fix
 - 2020-01-15 : added reminder
 - 2020-01-24 : small fix
+- 2020-03-09 : updated section
