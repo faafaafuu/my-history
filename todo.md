@@ -95,3 +95,4 @@
 - 2020-01-27 : fixed syntax
 - 2020-02-24 : fixed syntax
 - 2020-03-03 : added reminder
+- 2020-03-10 : fixed syntax
