@@ -96,3 +96,4 @@
 - 2020-03-01 : fixed syntax
 - 2020-03-23 : fixed syntax
 - 2020-03-26 : fixed syntax
+- 2020-04-02 : added new note
