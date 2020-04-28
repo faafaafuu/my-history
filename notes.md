@@ -78,3 +78,4 @@
 - 2020-03-22 : added new note
 - 2020-03-25 : updated section
 - 2020-04-22 : updated section
+- 2020-04-28 : fixed syntax
