@@ -76,3 +76,4 @@
 - 2020-03-17 : added reminder
 - 2020-03-19 : added new note
 - 2020-04-21 : small fix
+- 2020-05-01 : fixed syntax
