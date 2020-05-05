@@ -99,3 +99,4 @@
 - 2020-04-02 : added new note
 - 2020-04-08 : added reminder
 - 2020-05-04 : small fix
+- 2020-05-05 : updated section
