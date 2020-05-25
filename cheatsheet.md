@@ -78,3 +78,4 @@
 - 2020-04-21 : small fix
 - 2020-05-01 : fixed syntax
 - 2020-05-11 : added reminder
+- 2020-05-25 : added new note
