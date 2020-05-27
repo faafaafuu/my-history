@@ -97,3 +97,4 @@
 - 2020-03-03 : added reminder
 - 2020-03-10 : fixed syntax
 - 2020-05-21 : added link
+- 2020-05-27 : small fix
