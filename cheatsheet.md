@@ -79,3 +79,4 @@
 - 2020-05-01 : fixed syntax
 - 2020-05-11 : added reminder
 - 2020-05-25 : added new note
+- 2020-06-11 : added new note
