@@ -81,3 +81,4 @@
 - 2020-05-25 : added new note
 - 2020-06-11 : added new note
 - 2020-06-16 : updated section
+- 2020-06-26 : added link
