@@ -100,3 +100,4 @@
 - 2020-05-27 : small fix
 - 2020-06-08 : added link
 - 2020-06-18 : added link
+- 2020-07-01 : added reminder
