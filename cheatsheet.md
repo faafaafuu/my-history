@@ -82,3 +82,4 @@
 - 2020-06-11 : added new note
 - 2020-06-16 : updated section
 - 2020-06-26 : added link
+- 2020-07-03 : fixed syntax
