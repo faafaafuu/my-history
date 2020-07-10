@@ -101,3 +101,4 @@
 - 2020-05-04 : small fix
 - 2020-05-05 : updated section
 - 2020-06-10 : added new note
+- 2020-07-10 : updated section
