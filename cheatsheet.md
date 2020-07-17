@@ -84,3 +84,4 @@
 - 2020-06-26 : added link
 - 2020-07-03 : fixed syntax
 - 2020-07-15 : added reminder
+- 2020-07-17 : updated section
