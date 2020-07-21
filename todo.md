@@ -101,3 +101,4 @@
 - 2020-06-08 : added link
 - 2020-06-18 : added link
 - 2020-07-01 : added reminder
+- 2020-07-21 : fixed syntax
