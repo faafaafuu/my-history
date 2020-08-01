@@ -82,3 +82,4 @@
 - 2020-05-14 : added link
 - 2020-06-23 : small fix
 - 2020-06-24 : added reminder
+- 2020-08-01 : added reminder
