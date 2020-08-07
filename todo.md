@@ -104,3 +104,4 @@
 - 2020-07-21 : fixed syntax
 - 2020-07-29 : added new note
 - 2020-08-03 : fixed syntax
+- 2020-08-07 : small fix
