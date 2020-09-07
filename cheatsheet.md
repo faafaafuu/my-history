@@ -87,3 +87,4 @@
 - 2020-07-17 : updated section
 - 2020-08-19 : added new note
 - 2020-08-25 : added reminder
+- 2020-09-07 : updated section
