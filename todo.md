@@ -106,3 +106,4 @@
 - 2020-08-03 : fixed syntax
 - 2020-08-07 : small fix
 - 2020-08-24 : added new note
+- 2020-09-09 : added new note
