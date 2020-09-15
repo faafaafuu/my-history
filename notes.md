@@ -86,3 +86,4 @@
 - 2020-08-10 : added link
 - 2020-09-03 : small fix
 - 2020-09-11 : added link
+- 2020-09-15 : fixed syntax
