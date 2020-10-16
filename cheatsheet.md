@@ -89,3 +89,4 @@
 - 2020-08-25 : added reminder
 - 2020-09-07 : updated section
 - 2020-10-13 : fixed syntax
+- 2020-10-16 : added link
