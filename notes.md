@@ -91,3 +91,4 @@
 - 2020-10-02 : added link
 - 2020-10-12 : small fix
 - 2020-10-14 : updated section
+- 2020-10-20 : fixed syntax
