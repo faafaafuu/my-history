@@ -109,3 +109,4 @@
 - 2020-09-09 : added new note
 - 2020-09-10 : added reminder
 - 2020-09-21 : updated section
+- 2020-10-30 : updated section
