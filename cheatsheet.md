@@ -92,3 +92,4 @@
 - 2020-10-16 : added link
 - 2020-11-03 : updated section
 - 2020-11-09 : updated section
+- 2020-11-11 : added new note
