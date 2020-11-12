@@ -93,3 +93,4 @@
 - 2020-11-03 : updated section
 - 2020-11-09 : updated section
 - 2020-11-11 : added new note
+- 2020-11-12 : small fix
