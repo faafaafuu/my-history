@@ -95,3 +95,4 @@
 - 2020-10-22 : added reminder
 - 2020-11-10 : small fix
 - 2020-11-13 : added new note
+- 2020-11-16 : added new note
