@@ -110,3 +110,4 @@
 - 2020-09-10 : added reminder
 - 2020-09-21 : updated section
 - 2020-10-30 : updated section
+- 2020-12-10 : updated section
