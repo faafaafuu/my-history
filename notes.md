@@ -99,3 +99,4 @@
 - 2020-12-07 : small fix
 - 2020-12-09 : added link
 - 2020-12-28 : added new note
+- 2020-12-29 : fixed syntax
