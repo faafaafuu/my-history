@@ -100,3 +100,4 @@
 - 2020-12-09 : added link
 - 2020-12-28 : added new note
 - 2020-12-29 : fixed syntax
+- 2021-01-19 : fixed syntax
