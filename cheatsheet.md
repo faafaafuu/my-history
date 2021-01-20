@@ -98,3 +98,4 @@
 - 2020-12-03 : updated section
 - 2020-12-15 : small fix
 - 2021-01-07 : added reminder
+- 2021-01-20 : fixed syntax
