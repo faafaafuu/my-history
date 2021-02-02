@@ -103,3 +103,4 @@
 - 2021-01-19 : fixed syntax
 - 2021-01-25 : added reminder
 - 2021-01-28 : fixed syntax
+- 2021-02-02 : added new note
