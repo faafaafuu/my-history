@@ -100,3 +100,4 @@
 - 2021-01-07 : added reminder
 - 2021-01-20 : fixed syntax
 - 2021-02-16 : small fix
+- 2021-02-25 : updated section
