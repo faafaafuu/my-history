@@ -125,3 +125,4 @@
 - 2021-01-21 : fixed syntax
 - 2021-02-05 : fixed syntax
 - 2021-02-08 : added link
+- 2021-03-02 : small fix
