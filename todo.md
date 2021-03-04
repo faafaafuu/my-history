@@ -117,3 +117,4 @@
 - 2021-02-01 : fixed syntax
 - 2021-02-09 : added reminder
 - 2021-03-01 : added reminder
+- 2021-03-04 : updated section
