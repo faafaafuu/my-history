@@ -107,3 +107,4 @@
 - 2021-04-12 : fixed syntax
 - 2021-04-20 : added new note
 - 2021-05-27 : updated section
+- 2021-06-08 : small fix
