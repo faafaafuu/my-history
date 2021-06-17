@@ -123,3 +123,4 @@
 - 2021-04-27 : small fix
 - 2021-04-30 : added new note
 - 2021-06-07 : added reminder
+- 2021-06-17 : fixed syntax
