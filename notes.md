@@ -112,3 +112,4 @@
 - 2021-05-03 : added reminder
 - 2021-05-07 : small fix
 - 2021-05-12 : added new note
+- 2021-06-24 : updated section
