@@ -125,3 +125,4 @@
 - 2021-06-07 : added reminder
 - 2021-06-17 : fixed syntax
 - 2021-06-22 : updated section
+- 2021-06-28 : added new note
