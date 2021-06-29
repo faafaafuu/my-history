@@ -126,3 +126,4 @@
 - 2021-06-17 : fixed syntax
 - 2021-06-22 : updated section
 - 2021-06-28 : added new note
+- 2021-06-29 : added reminder
