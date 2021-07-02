@@ -132,3 +132,4 @@
 - 2021-04-29 : added link
 - 2021-05-04 : added new note
 - 2021-06-04 : added link
+- 2021-07-02 : small fix
