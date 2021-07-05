@@ -108,3 +108,4 @@
 - 2021-04-20 : added new note
 - 2021-05-27 : updated section
 - 2021-06-08 : small fix
+- 2021-07-05 : added reminder
