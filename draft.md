@@ -128,3 +128,4 @@
 - 2021-06-28 : added new note
 - 2021-06-29 : added reminder
 - 2021-07-06 : added reminder
+- 2021-07-08 : added link
