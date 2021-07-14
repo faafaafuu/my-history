@@ -129,3 +129,4 @@
 - 2021-06-29 : added reminder
 - 2021-07-06 : added reminder
 - 2021-07-08 : added link
+- 2021-07-14 : updated section
