@@ -110,3 +110,4 @@
 - 2021-06-08 : small fix
 - 2021-07-05 : added reminder
 - 2021-07-15 : fixed syntax
+- 2021-07-20 : fixed syntax
