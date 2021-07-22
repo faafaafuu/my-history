@@ -130,3 +130,4 @@
 - 2021-07-06 : added reminder
 - 2021-07-08 : added link
 - 2021-07-14 : updated section
+- 2021-07-22 : added new note
