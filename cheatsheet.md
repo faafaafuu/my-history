@@ -112,3 +112,4 @@
 - 2021-07-15 : fixed syntax
 - 2021-07-20 : fixed syntax
 - 2021-07-29 : fixed syntax
+- 2021-08-11 : updated section
