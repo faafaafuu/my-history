@@ -125,3 +125,4 @@
 - 2021-05-11 : added new note
 - 2021-05-28 : fixed syntax
 - 2021-06-25 : fixed syntax
+- 2021-08-18 : added new note
