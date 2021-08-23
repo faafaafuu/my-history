@@ -135,3 +135,4 @@
 - 2021-07-02 : small fix
 - 2021-08-02 : added reminder
 - 2021-08-10 : fixed syntax
+- 2021-08-23 : updated section
