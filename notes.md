@@ -114,3 +114,4 @@
 - 2021-05-12 : added new note
 - 2021-06-24 : updated section
 - 2021-08-12 : added new note
+- 2021-08-27 : small fix
