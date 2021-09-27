@@ -115,3 +115,4 @@
 - 2021-08-11 : updated section
 - 2021-08-24 : added reminder
 - 2021-09-01 : small fix
+- 2021-09-27 : fixed syntax
