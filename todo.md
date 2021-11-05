@@ -129,3 +129,4 @@
 - 2021-09-25 : updated section
 - 2021-10-10 : added reminder
 - 2021-10-12 : updated section
+- 2021-11-05 : added new note
