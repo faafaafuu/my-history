@@ -119,3 +119,4 @@
 - 2021-09-02 : added link
 - 2021-09-08 : fixed syntax
 - 2021-10-04 : added reminder
+- 2021-11-08 : fixed syntax
