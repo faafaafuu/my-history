@@ -138,3 +138,4 @@
 - 2021-10-21 : updated section
 - 2021-10-29 : added reminder
 - 2021-11-01 : added link
+- 2021-11-10 : fixed syntax
