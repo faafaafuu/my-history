@@ -146,3 +146,4 @@
 - 2021-10-27 : added link
 - 2021-10-28 : added new note
 - 2021-11-02 : added reminder
+- 2021-11-15 : added reminder
