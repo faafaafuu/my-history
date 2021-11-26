@@ -139,3 +139,4 @@
 - 2021-10-29 : added reminder
 - 2021-11-01 : added link
 - 2021-11-10 : fixed syntax
+- 2021-11-26 : fixed syntax
