@@ -130,3 +130,4 @@
 - 2021-10-10 : added reminder
 - 2021-10-12 : updated section
 - 2021-11-05 : added new note
+- 2021-12-01 : fixed syntax
