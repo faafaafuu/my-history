@@ -122,3 +122,4 @@
 - 2021-11-08 : fixed syntax
 - 2021-11-11 : added reminder
 - 2021-12-17 : added link
+- 2021-12-21 : added new note
