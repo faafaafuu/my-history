@@ -131,3 +131,4 @@
 - 2021-10-12 : updated section
 - 2021-11-05 : added new note
 - 2021-12-01 : fixed syntax
+- 2021-12-22 : added new note
