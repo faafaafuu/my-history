@@ -124,3 +124,4 @@
 - 2021-12-17 : added link
 - 2021-12-21 : added new note
 - 2021-12-23 : fixed syntax
+- 2022-01-14 : updated section
