@@ -151,3 +151,4 @@
 - 2021-12-29 : updated section
 - 2022-01-21 : added link
 - 2022-02-15 : small fix
+- 2022-02-18 : added new note
