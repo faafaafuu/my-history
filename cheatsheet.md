@@ -126,3 +126,4 @@
 - 2022-03-04 : fixed syntax
 - 2022-03-10 : added new note
 - 2022-03-24 : small fix
+- 2022-06-11 : added reminder
