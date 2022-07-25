@@ -159,3 +159,4 @@
 - 2022-06-13 : added reminder
 - 2022-07-01 : updated section
 - 2022-07-08 : small fix
+- 2022-07-25 : added reminder
