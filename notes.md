@@ -130,3 +130,4 @@
 - 2022-06-15 : added reminder
 - 2022-06-27 : added link
 - 2022-07-15 : added link
+- 2022-07-27 : fixed syntax
