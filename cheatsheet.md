@@ -127,3 +127,4 @@
 - 2022-03-10 : added new note
 - 2022-03-24 : small fix
 - 2022-06-11 : added reminder
+- 2022-08-02 : added new note
