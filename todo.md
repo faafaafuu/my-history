@@ -140,3 +140,4 @@
 - 2022-06-30 : added link
 - 2022-07-20 : added reminder
 - 2022-08-01 : small fix
+- 2022-09-09 : updated section
