@@ -129,3 +129,4 @@
 - 2022-06-11 : added reminder
 - 2022-08-02 : added new note
 - 2022-09-14 : fixed syntax
+- 2022-09-23 : updated section
