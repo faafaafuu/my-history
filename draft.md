@@ -143,3 +143,4 @@
 - 2022-03-02 : added reminder
 - 2022-08-04 : fixed syntax
 - 2022-09-18 : added link
+- 2022-09-30 : updated section
