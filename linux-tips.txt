@@ -162,3 +162,4 @@
 - 2022-07-25 : added reminder
 - 2022-09-24 : added link
 - 2022-10-27 : added link
+- 2022-11-01 : added new note
