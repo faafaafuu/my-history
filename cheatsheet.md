@@ -134,3 +134,4 @@
 - 2022-10-03 : added reminder
 - 2022-10-31 : added link
 - 2022-11-18 : added reminder
+- 2022-11-30 : updated section
