@@ -147,3 +147,4 @@
 - 2022-11-08 : updated section
 - 2022-11-11 : small fix
 - 2022-12-23 : fixed syntax
+- 2022-12-27 : added new note
