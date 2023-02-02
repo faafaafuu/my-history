@@ -145,3 +145,4 @@
 - 2022-09-18 : added link
 - 2022-09-30 : updated section
 - 2022-10-24 : added reminder
+- 2023-02-02 : fixed syntax
