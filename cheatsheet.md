@@ -142,3 +142,4 @@
 - 2023-02-24 : added reminder
 - 2023-03-01 : added link
 - 2023-05-10 : small fix
+- 2023-05-16 : added new note
