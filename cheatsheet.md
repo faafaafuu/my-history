@@ -145,3 +145,4 @@
 - 2023-05-16 : added new note
 - 2023-05-19 : fixed syntax
 - 2023-05-23 : added link
+- 2023-06-01 : updated section
