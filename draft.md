@@ -148,3 +148,4 @@
 - 2023-02-02 : fixed syntax
 - 2023-03-02 : updated section
 - 2023-03-03 : added reminder
+- 2023-06-07 : small fix
