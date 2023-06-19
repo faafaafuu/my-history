@@ -153,3 +153,4 @@
 - 2023-03-13 : added new note
 - 2023-04-04 : fixed syntax
 - 2023-04-13 : small fix
+- 2023-06-19 : added reminder
