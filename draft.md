@@ -150,3 +150,4 @@
 - 2023-03-03 : added reminder
 - 2023-06-07 : small fix
 - 2023-06-20 : fixed syntax
+- 2023-06-30 : updated section
