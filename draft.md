@@ -151,3 +151,4 @@
 - 2023-06-07 : small fix
 - 2023-06-20 : fixed syntax
 - 2023-06-30 : updated section
+- 2023-07-27 : fixed syntax
