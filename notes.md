@@ -144,3 +144,4 @@
 - 2023-03-29 : small fix
 - 2023-06-21 : added reminder
 - 2023-07-24 : added new note
+- 2023-08-16 : added reminder
