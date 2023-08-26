@@ -154,3 +154,4 @@
 - 2023-04-04 : fixed syntax
 - 2023-04-13 : small fix
 - 2023-06-19 : added reminder
+- 2023-08-26 : updated section
