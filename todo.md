@@ -155,3 +155,4 @@
 - 2023-04-13 : small fix
 - 2023-06-19 : added reminder
 - 2023-08-26 : updated section
+- 2023-09-06 : added new note
