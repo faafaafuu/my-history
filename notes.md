@@ -148,3 +148,4 @@
 - 2023-08-31 : added new note
 - 2023-09-05 : added new note
 - 2023-10-04 : updated section
+- 2023-10-13 : small fix
