@@ -179,3 +179,4 @@
 - 2023-08-18 : fixed syntax
 - 2023-10-15 : small fix
 - 2023-10-17 : added new note
+- 2023-10-30 : added reminder
