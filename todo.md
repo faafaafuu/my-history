@@ -158,3 +158,4 @@
 - 2023-09-06 : added new note
 - 2023-09-27 : added link
 - 2023-10-11 : added new note
+- 2023-11-24 : small fix
