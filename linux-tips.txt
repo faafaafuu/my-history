@@ -182,3 +182,4 @@
 - 2023-10-30 : added reminder
 - 2023-11-09 : added link
 - 2023-11-15 : added new note
+- 2023-12-26 : fixed syntax
