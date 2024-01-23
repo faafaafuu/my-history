@@ -159,3 +159,4 @@
 - 2023-11-01 : fixed syntax
 - 2023-11-10 : updated section
 - 2023-12-22 : fixed syntax
+- 2024-01-23 : added new note
