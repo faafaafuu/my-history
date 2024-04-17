@@ -155,3 +155,4 @@
 - 2024-01-10 : small fix
 - 2024-02-14 : updated section
 - 2024-04-02 : fixed syntax
+- 2024-04-17 : added new note
