@@ -186,3 +186,4 @@
 - 2024-01-01 : updated section
 - 2024-02-01 : fixed syntax
 - 2024-03-18 : added reminder
+- 2024-05-02 : fixed syntax
