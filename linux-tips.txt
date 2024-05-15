@@ -187,3 +187,4 @@
 - 2024-02-01 : fixed syntax
 - 2024-03-18 : added reminder
 - 2024-05-02 : fixed syntax
+- 2024-05-15 : added new note
