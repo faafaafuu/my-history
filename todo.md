@@ -163,3 +163,4 @@
 - 2023-12-14 : added new note
 - 2024-03-22 : small fix
 - 2024-04-24 : fixed syntax
+- 2024-05-22 : fixed syntax
