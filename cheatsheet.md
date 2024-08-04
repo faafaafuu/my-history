@@ -158,3 +158,4 @@
 - 2024-04-17 : added new note
 - 2024-05-28 : added new note
 - 2024-08-02 : added link
+- 2024-08-04 : fixed syntax
