@@ -167,3 +167,4 @@
 - 2024-09-02 : updated section
 - 2024-09-03 : updated section
 - 2024-09-25 : updated section
+- 2024-10-03 : added new note
