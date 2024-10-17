@@ -193,3 +193,4 @@
 - 2024-08-12 : added new note
 - 2024-08-15 : small fix
 - 2024-08-16 : small fix
+- 2024-10-17 : added reminder
