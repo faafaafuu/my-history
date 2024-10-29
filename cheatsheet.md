@@ -161,3 +161,4 @@
 - 2024-08-04 : fixed syntax
 - 2024-09-13 : added new note
 - 2024-09-24 : updated section
+- 2024-10-29 : updated section
