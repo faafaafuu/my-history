@@ -169,3 +169,4 @@
 - 2024-08-06 : added link
 - 2024-10-08 : added new note
 - 2024-10-30 : added reminder
+- 2024-11-13 : added link
