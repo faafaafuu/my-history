@@ -164,3 +164,4 @@
 - 2024-09-30 : fixed syntax
 - 2024-10-14 : added reminder
 - 2024-11-12 : added link
+- 2024-11-20 : small fix
