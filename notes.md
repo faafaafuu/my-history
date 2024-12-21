@@ -165,3 +165,4 @@
 - 2024-10-14 : added reminder
 - 2024-11-12 : added link
 - 2024-11-20 : small fix
+- 2024-12-21 : small fix
