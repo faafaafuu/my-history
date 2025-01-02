@@ -171,3 +171,4 @@
 - 2024-10-30 : added reminder
 - 2024-11-13 : added link
 - 2024-12-23 : updated section
+- 2025-01-02 : added reminder
