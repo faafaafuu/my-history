@@ -173,3 +173,4 @@
 - 2024-12-23 : updated section
 - 2025-01-02 : added reminder
 - 2025-01-14 : small fix
+- 2025-01-16 : added new note
