@@ -167,3 +167,4 @@
 - 2024-11-20 : small fix
 - 2024-12-21 : small fix
 - 2025-01-15 : added reminder
+- 2025-01-19 : added reminder
