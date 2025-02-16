@@ -165,3 +165,4 @@
 - 2024-11-06 : fixed syntax
 - 2025-01-21 : added reminder
 - 2025-02-10 : fixed syntax
+- 2025-02-16 : fixed syntax
