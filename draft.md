@@ -171,3 +171,4 @@
 - 2025-01-03 : fixed syntax
 - 2025-01-09 : updated section
 - 2025-01-22 : added link
+- 2025-02-21 : small fix
