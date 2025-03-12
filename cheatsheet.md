@@ -168,3 +168,4 @@
 - 2025-02-16 : fixed syntax
 - 2025-03-03 : added reminder
 - 2025-03-04 : fixed syntax
+- 2025-03-12 : updated section
