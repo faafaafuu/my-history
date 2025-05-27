@@ -205,3 +205,4 @@
 - 2025-03-17 : added reminder
 - 2025-03-20 : fixed syntax
 - 2025-03-26 : added link
+- 2025-05-27 : small fix
