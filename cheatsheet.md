@@ -175,3 +175,4 @@
 - 2025-04-22 : added reminder
 - 2025-04-23 : added reminder
 - 2025-05-05 : added link
+- 2025-05-30 : added new note
