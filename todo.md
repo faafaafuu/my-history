@@ -179,3 +179,4 @@
 - 2025-04-30 : added reminder
 - 2025-05-02 : small fix
 - 2025-05-14 : added reminder
+- 2025-06-06 : added link
