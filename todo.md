@@ -181,3 +181,4 @@
 - 2025-05-14 : added reminder
 - 2025-06-06 : added link
 - 2025-06-10 : fixed syntax
+- 2025-06-17 : fixed syntax
