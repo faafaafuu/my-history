@@ -181,3 +181,4 @@
 - 2025-05-08 : small fix
 - 2025-05-09 : added reminder
 - 2025-05-16 : added reminder
+- 2025-06-23 : added reminder
