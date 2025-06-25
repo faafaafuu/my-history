@@ -177,3 +177,4 @@
 - 2025-05-05 : added link
 - 2025-05-30 : added new note
 - 2025-06-13 : added link
+- 2025-06-25 : added reminder
