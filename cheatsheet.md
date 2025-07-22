@@ -180,3 +180,4 @@
 - 2025-06-25 : added reminder
 - 2025-07-07 : small fix
 - 2025-07-08 : added reminder
+- 2025-07-22 : fixed syntax
