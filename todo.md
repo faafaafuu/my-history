@@ -189,3 +189,4 @@
 - 2025-07-14 : fixed syntax
 - 2025-07-23 : added new note
 - 2025-07-30 : added link
+- 2025-07-31 : updated section
