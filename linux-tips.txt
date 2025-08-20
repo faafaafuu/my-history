@@ -213,3 +213,4 @@
 - 2025-07-29 : added new note
 - 2025-08-01 : added link
 - 2025-08-06 : added reminder
+- 2025-08-20 : added new note
