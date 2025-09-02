@@ -184,3 +184,4 @@
 - 2025-08-07 : added link
 - 2025-08-11 : small fix
 - 2025-08-28 : added link
+- 2025-09-02 : updated section
