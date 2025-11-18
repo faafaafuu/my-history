@@ -181,3 +181,4 @@
 - 2025-09-19 : updated section
 - 2025-10-23 : added link
 - 2025-11-10 : added link
+- 2025-11-18 : added new note
