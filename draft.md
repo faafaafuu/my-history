@@ -197,3 +197,4 @@
 - 2025-10-29 : small fix
 - 2025-11-04 : added link
 - 2025-11-12 : added new note
+- 2025-11-20 : fixed syntax
