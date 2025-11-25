@@ -182,3 +182,4 @@
 - 2025-10-23 : added link
 - 2025-11-10 : added link
 - 2025-11-18 : added new note
+- 2025-11-25 : small fix
