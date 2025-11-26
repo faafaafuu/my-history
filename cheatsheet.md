@@ -188,3 +188,4 @@
 - 2025-09-05 : added link
 - 2025-10-21 : added reminder
 - 2025-11-14 : small fix
+- 2025-11-26 : updated section
