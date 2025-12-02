@@ -189,3 +189,4 @@
 - 2025-10-21 : added reminder
 - 2025-11-14 : small fix
 - 2025-11-26 : updated section
+- 2025-12-02 : fixed syntax
