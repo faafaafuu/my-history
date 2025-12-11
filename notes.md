@@ -184,3 +184,4 @@
 - 2025-11-18 : added new note
 - 2025-11-25 : small fix
 - 2025-12-01 : added new note
+- 2025-12-11 : updated section
