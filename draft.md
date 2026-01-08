@@ -202,3 +202,4 @@
 - 2025-12-05 : added link
 - 2025-12-17 : added new note
 - 2026-01-06 : added reminder
+- 2026-01-08 : added new note
