@@ -190,3 +190,4 @@
 - 2025-11-14 : small fix
 - 2025-11-26 : updated section
 - 2025-12-02 : fixed syntax
+- 2026-01-09 : small fix
