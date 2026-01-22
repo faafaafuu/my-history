@@ -187,3 +187,4 @@
 - 2025-12-11 : updated section
 - 2025-12-19 : added link
 - 2025-12-25 : updated section
+- 2026-01-22 : fixed syntax
