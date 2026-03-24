@@ -196,3 +196,4 @@
 - 2026-02-05 : added link
 - 2026-02-11 : small fix
 - 2026-02-27 : small fix
+- 2026-03-24 : fixed syntax
