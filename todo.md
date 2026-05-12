@@ -213,3 +213,4 @@
 - 2026-04-21 : added link
 - 2026-04-27 : fixed syntax
 - 2026-05-05 : small fix
+- 2026-05-12 : fixed syntax
