@@ -215,3 +215,4 @@
 - 2026-05-05 : small fix
 - 2026-05-12 : fixed syntax
 - 2026-05-13 : added new note
+- 2026-05-20 : added new note
