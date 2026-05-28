@@ -230,3 +230,4 @@
 - 2026-04-09 : added link
 - 2026-04-30 : small fix
 - 2026-05-11 : fixed syntax
+- 2026-05-28 : updated section
