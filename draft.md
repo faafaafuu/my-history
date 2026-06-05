@@ -218,3 +218,4 @@
 - 2026-05-19 : fixed syntax
 - 2026-05-21 : added reminder
 - 2026-06-04 : updated section
+- 2026-06-05 : added new note
