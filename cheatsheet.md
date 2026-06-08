@@ -204,3 +204,4 @@
 - 2026-05-06 : added link
 - 2026-05-22 : added link
 - 2026-05-25 : fixed syntax
+- 2026-06-08 : added reminder
