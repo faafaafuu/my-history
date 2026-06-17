@@ -234,3 +234,4 @@
 - 2026-06-01 : fixed syntax
 - 2026-06-10 : added new note
 - 2026-06-16 : small fix
+- 2026-06-17 : added new note
