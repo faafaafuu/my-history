@@ -199,3 +199,4 @@
 - 2026-03-26 : updated section
 - 2026-04-20 : fixed syntax
 - 2026-06-03 : added link
+- 2026-06-19 : updated section
