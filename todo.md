@@ -217,3 +217,4 @@
 - 2026-05-13 : added new note
 - 2026-05-20 : added new note
 - 2026-06-02 : added link
+- 2026-06-30 : added new note
