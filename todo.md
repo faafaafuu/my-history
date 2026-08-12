@@ -225,3 +225,4 @@
 - 2026-07-31 : added new note
 - 2026-08-04 : small fix
 - 2026-08-06 : fixed syntax
+- 2026-08-12 : added reminder
