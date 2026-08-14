@@ -207,3 +207,4 @@
 - 2026-06-08 : added reminder
 - 2026-06-09 : small fix
 - 2026-07-17 : updated section
+- 2026-08-14 : fixed syntax
