@@ -226,3 +226,4 @@
 - 2026-08-04 : small fix
 - 2026-08-06 : fixed syntax
 - 2026-08-12 : added reminder
+- 2026-08-31 : small fix
