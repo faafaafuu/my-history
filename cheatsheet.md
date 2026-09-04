@@ -208,3 +208,4 @@
 - 2026-06-09 : small fix
 - 2026-07-17 : updated section
 - 2026-08-14 : fixed syntax
+- 2026-09-04 : added new note
