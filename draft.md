@@ -221,3 +221,4 @@
 - 2026-06-05 : added new note
 - 2026-06-23 : small fix
 - 2026-07-29 : small fix
+- 2026-09-11 : added reminder
