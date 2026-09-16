@@ -222,3 +222,4 @@
 - 2026-06-23 : small fix
 - 2026-07-29 : small fix
 - 2026-09-11 : added reminder
+- 2026-09-16 : fixed syntax
