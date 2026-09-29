@@ -205,3 +205,4 @@
 - 2026-07-24 : fixed syntax
 - 2026-09-01 : added link
 - 2026-09-17 : added link
+- 2026-09-29 : added new note
