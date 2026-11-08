@@ -22,7 +22,7 @@ server {
 
   location /.well-known/acme-challenge/ { root /var/www/certbot; }
   location = /nginx-health { access_log off; return 200 "ok\n"; }
-  location / { return 301 https://$host$request_uri; }
+  location / { return 301 https://$host:${HTTPS_PORT}$request_uri; }
 }
 
 server {

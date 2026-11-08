@@ -3,6 +3,7 @@
 # потом nginx сам переключается на настоящий (проверка раз в час, reload).
 set -eu
 DOMAIN="${DOMAIN:-localhost}"
+export HTTPS_PORT="${HTTPS_PORT:-443}"
 LE="/etc/letsencrypt/live/$DOMAIN"
 SELF=/etc/nginx/selfsigned
 ACTIVE=/etc/nginx/active-cert
@@ -20,7 +21,7 @@ pick() {
 }
 pick
 
-envsubst '${DOMAIN}' < /etc/nginx/mmap/site.conf.tpl > /etc/nginx/conf.d/default.conf
+envsubst '${DOMAIN} ${HTTPS_PORT}' < /etc/nginx/mmap/site.conf.tpl > /etc/nginx/conf.d/default.conf
 
 (
   while :; do
