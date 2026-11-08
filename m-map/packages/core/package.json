@@ -1,0 +1,14 @@
+{
+  "name": "@m-map/core",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Типы, zod-схемы и граф-алгоритмы Life Map. Без зависимостей от UI: переиспользуется в вебе и iOS.",
+  "exports": { ".": "./src/index.ts" },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run"
+  },
+  "dependencies": { "zod": "^4.6.7" },
+  "devDependencies": { "typescript": "^5.9.3", "vitest": "^5.1.0" }
+}

@@ -103,5 +103,12 @@ interface LLMProvider {
 Отмена через `AbortSignal`, таймаут настраивается. Содержимое промптов и ответов в лог не пишется,
 только длительность, статус и размер.
 
+**Решение (согласовано):** по умолчанию `LLM_PROVIDER=bridge` в режиме `http`. Если мост
+не ответил (сеть, 5xx, таймаут, «нужен вход», лимит подписки), запрос уходит
+в `LLM_FALLBACK=openrouter`. Модель OpenRouter задаётся в `OPENROUTER_MODEL`. Адрес моста
+указывается одним из двух способов, подробности в `docs/deploy.md`:
+- площадка NOAH: `https://<noah>/api/noa/bridge` + ключ владельца `noah_…`;
+- напрямую: `http://host.docker.internal:8791` + `NOA_BRIDGE_TOKEN`.
+
 `OpenRouterProvider` использует тот же OpenAI-формат с `response_format: { type: "json_schema" }` там,
 где модель это поддерживает, и тот же цикл «валидация → повтор».
